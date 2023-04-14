@@ -1,6 +1,8 @@
 # Conky
 
-Custom conky config for conky 1.11.6  Linux x86_64
+OS: Debian 12
+Conky: 1.18.3
+Resolution: 2k (2560x1440)
 
 ## Installation
 
