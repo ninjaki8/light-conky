@@ -11,7 +11,9 @@ Use the package manager to install conky.
 ```bash
 sudo apt install conky-all
 ```
-Copy conky.conf to /home/user/.config/conky/
+Copy files to /home/user/.config/conky/
+
+*Note: Create directory path if it does not exist
 
 ## Usage
 
