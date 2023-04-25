@@ -8,7 +8,7 @@ Resolution: 2k (2560x1440)
 
 ## Installation
 
-Use the package manager to install conky.
+Use the apt package manager to install conky.
 
 ```bash
 sudo apt install conky-all
