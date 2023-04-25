@@ -1,7 +1,9 @@
 # Light Conky Theme
 
 OS: Ubuntu 23.04
+
 Conky: 1.18.0
+
 Resolution: 2k (2560x1440)
 
 ## Installation
