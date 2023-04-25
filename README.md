@@ -18,7 +18,7 @@ Copy files to /home/user/.config/conky/
 *Note: Create directory path if it does not exist
 
 ## Usage
-
+Open a terminal and type
 ```bash
 conky
 
