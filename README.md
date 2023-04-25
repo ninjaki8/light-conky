@@ -1,6 +1,6 @@
 # Conky
 
-OS: Debian 12
+OS: Ubuntu 23.04
 Conky: 1.18.3
 Resolution: 2k (2560x1440)
 
